@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Jitendra Bhadoriya
 
 ## About Me
-I'm a passionate front-end developer with over 3 years of experience in crafting user-friendly and visually appealing web applications. I have a strong foundation in HTML, CSS, and JavaScript, along with expertise in modern front-end frameworks like React.js and Vue.js.
+I'm a passionate front-end developer with over 3 years of experience in crafting user-friendly and visually appealing web applications. I have a strong foundation in HTML, CSS, and JavaScript, along with expertise in modern front-end frameworks like React.js and redux.
 
 ## Skills
 - **Languages:** HTML5, CSS3, JavaScript
-- **Frameworks/Libraries:** React.js, Vue.js
+- **Frameworks/Libraries:** React.js, Redux
 - **Tools:** Git, npm, Webpack
 - **Design:** Responsive Design, UI/UX Principles
 - **Other:** Bootstrap, Sass
