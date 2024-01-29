@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 
 ## Get in Touch
 - LinkedIn: [Jitendra Bhadoriya](https://www.linkedin.com/in/jitendra-bhadoriya).
-- Email:(reactdev.engineer.com).
+- Email:reactdev.engineer.com
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
 <!---
